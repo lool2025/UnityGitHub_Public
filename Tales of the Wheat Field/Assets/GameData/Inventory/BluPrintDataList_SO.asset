@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0569717688c9114e8882c8678a22027, type: 3}
+  m_Name: BluPrintDataList_SO
+  m_EditorClassIdentifier: 
+  bluePrintDataList:
+  - ID: 1024
+    resourceItem:
+    - itemID: 1008
+      itemAmount: 20
+    buildPrefab: {fileID: 3790057541908483103, guid: 254ab9854570fb24aa4091205c128e01, type: 3}
+  - ID: 1025
+    resourceItem:
+    - itemID: 1008
+      itemAmount: 20
+    buildPrefab: {fileID: 6061164371843003875, guid: 348c621809cf7334682fc54dcaabd2c3, type: 3}
